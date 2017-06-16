@@ -19,4 +19,12 @@
 
 ## Set permissions as shown in the screenshot:-
 
-![alt text](https://img.xda-cdn.com/tTevhotLOr4xCcStATnOVUj18vQ=/http%3A%2F%2Fi1291.photobucket.com%2Falbums%2Fb553%2Fvsbrt%2Fpermissionsx_zps0bfc53cb.png "ANTUTU BENCHMARK SCORE")
+![alt text](https://img.xda-cdn.com/tTevhotLOr4xCcStATnOVUj18vQ=/http%3A%2F%2Fi1291.photobucket.com%2Falbums%2Fb553%2Fvsbrt%2Fpermissionsx_zps0bfc53cb.png "ROOT PERMISSIONS")
+
+## Screenshot:-
+
+![alt text](https://img.xda-cdn.com/guqFfMBilXfEqDDnjiRH33Ojktc=/http%3A%2F%2Fi1291.photobucket.com%2Falbums%2Fb553%2Fvsbrt%2FScreenshot_2013-07-11-18-23-03_zpsed8a6ad1.png "Screenshot1")
+
+![alt text](https://img.xda-cdn.com/U0HFf2cg1Ltk4jPbxrHTHqPcR8M=/http%3A%2F%2Fi1291.photobucket.com%2Falbums%2Fb553%2Fvsbrt%2FScreenshot_2013-07-11-18-23-14_zps16eee803.png "Screenshot2")
+
+![alt text](https://img.xda-cdn.com/Uxv4fzR7FcNh2BKH58hI8HUUaQw=/http%3A%2F%2Fi1291.photobucket.com%2Falbums%2Fb553%2Fvsbrt%2FScreenshot_2013-07-11-18-23-38_zps6b19f690.png "Screenshot3")
