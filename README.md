@@ -27,3 +27,6 @@
 
 
 ### Please visit [XDA Forum link](https://forum.xda-developers.com/showpost.php?p=43482820) for discussion on this work.
+
+###### Disclaimer:-
+###### The apk's provided are modified based on the original APK. All the credits to the original APK developers.
